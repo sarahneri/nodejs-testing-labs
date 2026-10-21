@@ -1,0 +1,16 @@
+{
+  "name": "aula-mocks-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/index.test.js"
+  },
+  "engines": {
+    "node": "18"
+  },
+  "keywords": [],
+  "author": "Sarah Neri",
+  "license": "ISC",
+  "type": "commonjs"
+}
